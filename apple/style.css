@@ -1,0 +1,226 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    box-sizing: border-box;
+}
+html,body{
+    width: 100%;
+    height: 100%;
+}
+
+#nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+    width: 100%;
+    height: 45px;
+    background-color: black;
+    padding: 0px 280px 0px 280px;
+}
+#nav h4{
+    font-weight: 100;
+    font-size: 12px;
+}
+i{
+    color: white;
+}
+/* h4{
+    margin: 10px;
+} */
+.image i{
+    margin: 20px;
+}
+.image{
+   align-items: center;
+}
+#wwdc{
+    width: 100%;
+    background: linear-gradient(rgb(6, 0, 33), rgb(2, 0, 10));
+}
+.image{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+}
+#content{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    color: white;
+    padding-bottom: 200px;
+}
+#aple{
+    margin-bottom: 20px;
+    align-items: center;
+    display: flex;
+    font-size: 38px;
+}
+#aple i{
+    font-size: 80px;
+}
+#content h4{
+    text-align: center;
+    font-size: 28px;
+    font-weight: 400;
+}
+
+.watch{
+    font-size: 20px;
+    border: 3px solid white;
+    padding: 10px 40px;
+    margin-top: 40px; 
+    border-radius: 30px;
+}
+#air{
+    width: 100%;
+    display: flex ;
+    flex-direction: column;
+    align-items: center;
+}
+
+.heading{
+    font-size: 70px;
+    font-weight: 600;
+    padding: 150px 0px 60px 0px;
+}
+#cont p{
+    font-size: 25px;
+    text-align: center;
+}
+#cont{
+   padding:100px 0px 170px 0px;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+}
+#m2{
+    display: flex;
+    align-items: center;
+}
+#m2 h2{
+    padding-right: 15px;
+    font-weight: 500;
+    align-items: center;
+    justify-content: center ;
+}
+#m2{
+    padding-top: 35px;
+}
+#m2 + h2{
+    padding: 35px 0px;
+    color: rgb(120, 120, 120);
+    font-weight: 600;
+}
+#circle{
+    display: flex;
+    font-size: 18px ;
+    
+}
+#view{
+    margin-left: 20px;
+    border: 2px solid black;
+    padding: 8px 17px;
+    border-radius: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#learn{
+    border: 2px solid black;
+    padding: 8px 17px;
+    border-radius: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.page3{
+    position: relative;    
+}
+.page3 img{
+    width: 100%;
+    align-items: center;
+    
+}
+.page3-text{
+    width: 100%;
+    height: 20%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 0%      
+}
+.block{
+    position: absolute;
+    bottom: 70px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.iphone13pro{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.main-div{
+    display: flex ;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+   
+}
+.option{
+    display: flex;
+    padding: 4px;
+    align-items: center;
+    justify-content: center;
+    border-radius: 20px;
+    border: 2px solid black;
+    margin: 20px;
+}
+.more1{
+    display: flex;
+    padding: 4px;
+    align-items: center;
+    justify-content: center;
+    border-radius: 20px;
+    border: 2px solid black
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .navbar{
+    border: 1px solid white;
+    width: calc(100%/3);
+    height: 40px;
+    background-color: black;
+}
+#nav{
+    width: 00%;
+    display: flex;
+} */
